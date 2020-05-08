@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package questao2;
+package Avaliacao;
 
 /**
  *
@@ -12,4 +12,16 @@ package questao2;
 public interface Iarquivo {
 
     void getAquivos();
+
+    void ler(int id);
+
+    void escrever(int id);
+
+    void abrir(int id);
+
+    void fechar(int id);
+
+    int getId();
+
+    void mostrarAquivos();
 }

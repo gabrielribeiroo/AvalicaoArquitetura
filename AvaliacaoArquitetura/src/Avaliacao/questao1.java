@@ -1,5 +1,5 @@
 //1) Explique em linhas gerais quais são as condições necessárias para uma classe seguir um padrão de projeto Singleton (1,0 ponto)
-package avaliacaoarquitetura;
+package Avaliacao;
 
 /**
  *
